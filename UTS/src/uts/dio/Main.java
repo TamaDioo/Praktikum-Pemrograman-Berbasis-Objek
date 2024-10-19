@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Main {
-     private static List<Produk> produks = new ArrayList<>();
+    private static List<Produk> produks = new ArrayList<>();
     private static List<Pelanggan> pelanggans = new ArrayList<>();
     private static List<Pemesanan> pemesanans = new ArrayList<>();
     private static Scanner scanner = new Scanner(System.in);
